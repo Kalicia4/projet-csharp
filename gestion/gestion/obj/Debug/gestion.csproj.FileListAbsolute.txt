@@ -1,0 +1,14 @@
+A:\projet C#\gestion\bin\Debug\gestion.exe.config
+A:\projet C#\gestion\bin\Debug\gestion.exe
+A:\projet C#\gestion\bin\Debug\gestion.pdb
+A:\projet C#\gestion\obj\Debug\gestion.csproj.AssemblyReference.cache
+A:\projet C#\gestion\obj\Debug\gestion.csproj.SuggestedBindingRedirects.cache
+A:\projet C#\gestion\obj\Debug\gestion.Form1.resources
+A:\projet C#\gestion\obj\Debug\gestion.Properties.Resources.resources
+A:\projet C#\gestion\obj\Debug\gestion.csproj.GenerateResource.cache
+A:\projet C#\gestion\obj\Debug\gestion.csproj.CoreCompileInputs.cache
+A:\projet C#\gestion\obj\Debug\gestion.exe
+A:\projet C#\gestion\obj\Debug\gestion.pdb
+A:\projet C#\gestion\obj\Debug\gestion.chambre.resources
+A:\projet C#\gestion\obj\Debug\gestion.docteur.resources
+A:\projet C#\gestion\obj\Debug\gestion.Patient.resources

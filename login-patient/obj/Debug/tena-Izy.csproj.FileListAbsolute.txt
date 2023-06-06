@@ -1,0 +1,13 @@
+A:\projet C#\tena-Izy\bin\Debug\tena-Izy.exe.config
+A:\projet C#\tena-Izy\bin\Debug\tena-Izy.exe
+A:\projet C#\tena-Izy\bin\Debug\tena-Izy.pdb
+A:\projet C#\tena-Izy\obj\Debug\tena-Izy.csproj.AssemblyReference.cache
+A:\projet C#\tena-Izy\obj\Debug\tena-Izy.csproj.SuggestedBindingRedirects.cache
+A:\projet C#\tena-Izy\obj\Debug\tena_Izy.consultation.resources
+A:\projet C#\tena-Izy\obj\Debug\tena_Izy.Form1.resources
+A:\projet C#\tena-Izy\obj\Debug\tena_Izy.Properties.Resources.resources
+A:\projet C#\tena-Izy\obj\Debug\tena-Izy.csproj.GenerateResource.cache
+A:\projet C#\tena-Izy\obj\Debug\tena-Izy.csproj.CoreCompileInputs.cache
+A:\projet C#\tena-Izy\obj\Debug\tena-Izy.exe
+A:\projet C#\tena-Izy\obj\Debug\tena-Izy.pdb
+A:\projet C#\tena-Izy\obj\Debug\tena_Izy.urgence.resources
